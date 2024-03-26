@@ -1,0 +1,23 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. Over the last part of this course, you’ll use several of the technologies that social networking platforms use in their full-stack applications. Because the foundation of these applications is data, it’s important that you understand how to build and structure the API first.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NebulaEclipse/Social-network-API.git"
+  },
+  "author": "Christian Douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NebulaEclipse/Social-network-API/issues"
+  },
+  "homepage": "https://github.com/NebulaEclipse/Social-network-API#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "mongoose": "^6.12.7"
+  }
+}
