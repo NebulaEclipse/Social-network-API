@@ -116,17 +116,6 @@ deleteReaction(req, res) {
       )
       .catch((err) => res.status(500).json(err));
   },
-
-
-// getAllThoughts,
-//   getThoughtById,
-//   createThought,
-//   updateThought,
-//   deleteThought,
-//   addReaction,
-//   deleteReaction,
-
-
 }
 
 module.exports = thoughtController;
