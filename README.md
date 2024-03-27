@@ -11,11 +11,10 @@ SO THAT my website can handle large amounts of unstructured data
 ## Videos
 
 
-
+## Start Program | User path
 https://github.com/NebulaEclipse/Social-network-API/assets/147276811/69ba42db-1bf3-461e-a1e1-f935d9367f53
 
-
-
+## Thoughts and Reactions
 https://github.com/NebulaEclipse/Social-network-API/assets/147276811/5fe9698c-e8a2-48d1-b2e2-ddb0f6a2b43d
 
 
